@@ -1,0 +1,32 @@
+{
+  "quiz": [
+    {
+      "category": "Java Programming",
+      "difficulty": "easy",
+      "question": "What keyword is used to define a class in Java?",
+      "answer": "class",
+      "Points": 10
+    },
+    {
+      "category": "Trivia",
+      "difficulty": "easy",
+      "question": "Which country is the smallest in the world by land area?",
+      "answer": "Vatican City",
+      "Points": 16
+    },
+    {
+      "category": "Basic English",
+      "difficulty": "hard",
+      "question": "What part of speech is the word 'quickly'?",
+      "answer": "Adverb",
+      "Points": 17
+    },
+    {
+      "category": "Theory",
+      "difficulty": "hard",
+      "question": "Which concept in quantum mechanics describes the wave-particle duality?",
+      "answer": "De Broglie hypothesis",
+      "Points": 12
+    }
+  ]
+}
