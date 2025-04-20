@@ -1,0 +1,104 @@
+{
+  "quiz": [
+    {
+      "category": "Java Programming",
+      "difficulty": "easy",
+      "question": "Identify the keyword used to define a class in Java.",
+      "answer": "class"
+    },
+    {
+      "category": "Trivia",
+      "difficulty": "easy",
+      "question": "Identify the smallest country in the world by land area.",
+      "answer": "Vatican City"
+    },
+    {
+      "category": "Basic English",
+      "difficulty": "hard",
+      "question": "Identify the part of speech of the word 'quickly'.",
+      "answer": "Adverb"
+    },
+    {
+      "category": "Theory",
+      "difficulty": "hard",
+      "question": "Identify the concept in quantum mechanics that describes the wave-particle duality.",
+      "answer": "De Broglie hypothesis"
+    },
+    {
+      "category": "Basic English",
+      "difficulty": "medium",
+      "question": "Identify the correct plural form of 'child'.",
+      "answer": "Children"
+    },
+    {
+      "category": "Trivia",
+      "difficulty": "medium",
+      "question": "Identify the year when the first man landed on the moon.",
+      "answer": "1969"
+    },
+    {
+      "category": "Java Programming",
+      "difficulty": "hard",
+      "question": "Identify the design pattern which decouples an abstraction from its implementation in Java.",
+      "answer": "Bridge pattern"
+    },
+    {
+      "category": "Basic English",
+      "difficulty": "easy",
+      "question": "Identify the synonym of 'happy' in Basic English.",
+      "answer": "Glad"
+    },
+    {
+      "category": "Theory",
+      "difficulty": "medium",
+      "question": "Identify the scientific theory that explains the origin of the universe.",
+      "answer": "Big Bang Theory"
+    },
+    {
+      "category": "Trivia",
+      "difficulty": "hard",
+      "question": "Identify the actor who played the role of The Joker in the 2008 film 'The Dark Knight'.",
+      "answer": "Heath Ledger"
+    },
+    {
+      "category": "Filipino Trivia",
+      "difficulty": "easy",
+      "question": "Identify the national flower of the Philippines.",
+      "answer": "Sampaguita"
+    },
+    {
+      "category": "Filipino Trivia",
+      "difficulty": "medium",
+      "question": "Identify the official language of the Philippines.",
+      "answer": "Filipino"
+    },
+    {
+      "category": "Filipino Trivia",
+      "difficulty": "hard",
+      "question": "Identify the historical event that signaled the start of the Philippine Revolution against Spain.",
+      "answer": "Cry of Pugad Lawin"
+    },
+    {
+      "category": "Filipino Trivia",
+      "difficulty": "medium",
+      "question": "Identify the highest mountain in the Philippines.",
+      "answer": "Mount Apo"
+    },
+    {
+      "category": "Filipino Trivia",
+      "difficulty": "easy",
+      "question": "Identify the capital city of the Philippines.",
+      "answer": "Manila"
+    }
+  ],
+  "points": [
+    {
+      "student": "Alice",
+      "points": 80
+    },
+    {
+      "student": "Bob",
+      "points": 90
+    }
+  ]
+}

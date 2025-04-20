@@ -1,0 +1,52 @@
+{
+    "teacher": [{
+            "password": "jay",
+            "role": "teacher",
+            "username": "sir"
+        }, {
+            "password": "hi",
+            "role": "Teacher",
+            "username": "shes"
+        }, {
+            "password": "mahipus",
+            "role": "Teacher",
+            "username": "Nico"
+        }, {
+            "password": "amper",
+            "role": "teacher",
+            "username": "neill"
+        }, {
+            "password": "hi",
+            "role": "teacher",
+            "username": "akon"
+        }, {
+            "password": "hi",
+            "role": "teacher",
+            "username": "boiTukla"
+        }],
+    "student": [{
+            "password": "swy",
+            "role": "student",
+            "username": "mik"
+        }, {
+            "password": "hi",
+            "role": "Student",
+            "username": "her"
+        }, {
+            "password": "123",
+            "role": "Student",
+            "username": "Reyian"
+        }, {
+            "password": "yuson",
+            "role": "Student",
+            "username": "adriane excel"
+        }, {
+            "password": "12345",
+            "role": "Student",
+            "username": "Adriane"
+        }, {
+            "password": "123",
+            "role": "student",
+            "username": "mits"
+        }]
+}
